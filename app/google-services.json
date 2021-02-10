@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237137572869",
+    "project_id": "studyingpushnotifications",
+    "storage_bucket": "studyingpushnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237137572869:android:6836441074f4cc1d64186c",
+        "android_client_info": {
+          "package_name": "com.example.studyingpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237137572869-nbaca6p96dkq50142pjrvk9shaqsu4b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63-tTdImos9HR-mmMMOnr_HDBwsbUvyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237137572869-nbaca6p96dkq50142pjrvk9shaqsu4b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
